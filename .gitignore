@@ -1,0 +1,7 @@
+venv
+*.pyc
+.DS_Store
+.idea/
+*.sqlite
+*.sqlite3
+*.db
